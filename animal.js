@@ -5,5 +5,5 @@ const animal = {
     tutor: false,
     vacinado: true
 };
-console.log(animal);
+//console.log(animal);
 console.log(animal.nome);
